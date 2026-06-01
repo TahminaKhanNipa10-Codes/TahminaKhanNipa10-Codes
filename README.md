@@ -186,7 +186,7 @@ JavaScript       ████████████░░░░░░░░░
 <details>
 <summary>⚙️ Snake Animation Setup করো (Click to expand)</summary>
 
-তোমার GitHub profile repo-তে এই file বানাও:
+Create this file in your GitHub profile repo:
 `.github/workflows/snake.yml`
 
 ```yaml
@@ -215,7 +215,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Actions tab থেকে একবার manually run করো — তারপর auto-update হবে।
+Run it once manually from the Actions tab — it will auto-update every 12 hours after that.
 
 </details>
 
