@@ -4,29 +4,44 @@
 // hi there, i'm
 ```
 
-# Tahmina Khan Nipa
-### *Aspiring Full-Stack Developer*
+<h1>Tahmina Khan Nipa</h1>
 
-> "I don't just write code — I solve real problems with it."
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;C%23+%26+.NET+Enthusiast;Problem+Solver+%E2%9C%A6+Builder;Learner+Forever+%E2%88%9E)](https://git.io/typing-svg)
+
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TahminaKhanNipa10-Codes&color=7c3aed&style=flat-square&label=profile+views)
 &nbsp;
 ![Status](https://img.shields.io/badge/status-open%20to%20opportunities-22c55e?style=flat-square)
 &nbsp;
 ![Location](https://img.shields.io/badge/📍-Chattogram%2C%20Bangladesh-6b7280?style=flat-square)
+&nbsp;
+![Learning](https://img.shields.io/badge/∞-learner_forever-7c3aed?style=flat-square)
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### 🖥️ About Me
 
-I'm a passionate IT learner focused on building **enterprise-grade applications** using the ASP.NET ecosystem. With 8 months of dedicated, hands-on learning, I enjoy solving complex database problems and designing scalable, real-world systems.
+```bash
+nipa@dev:~$ cat about.txt
+```
+```
+┌──────────────────────────────────────────────────────┐
+│  🔭  Building  : Super Shop Management System (ERP)  │
+│  🌱  Learning  : Always. Forever. No finish line.    │
+│  💡  Belief    : Learn by building, not just reading │
+│  🎯  Goal      : Full-Stack Developer (Deep Backend) │
+│  🌍  Location  : Chattogram, Bangladesh              │
+└──────────────────────────────────────────────────────┘
+```
+```bash
+nipa@dev:~$ whoami
+aspiring-fullstack-dev | problem-solver | learner-forever ∞
+```
 
-- 🔭 Currently building a **Super Shop Management System** (ERP-level)
-- 🌱 Exploring **Clean Architecture**, **Entity Framework Core** & **REST API Design**
-- 🎯 Goal: Full-stack developer with deep backend expertise
-- 💡 I believe in learning by building — not just reading
+> *"I don't just write code — I solve real problems with it."*
 
 ---
 
@@ -41,6 +56,7 @@ I'm a passionate IT learner focused on building **enterprise-grade applications*
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 
 ---
@@ -57,6 +73,44 @@ JavaScript       ████████████░░░░░░░░░
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahminaKhanNipa10-Codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=7c3aed&icon_color=7c3aed" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahminaKhanNipa10-Codes&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahminaKhanNipa10-Codes&theme=tokyonight&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahminaKhanNipa10-Codes/TahminaKhanNipa10-Codes/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahminaKhanNipa10-Codes/TahminaKhanNipa10-Codes/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TahminaKhanNipa10-Codes/TahminaKhanNipa10-Codes/output/github-snake.svg" />
+  </picture>
+</div>
+
+> 💡 **Snake setup করতে:** তোমার repo-তে `.github/workflows/snake.yml` file বানাও — নিচে দেওয়া আছে।
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TahminaKhanNipa10-Codes&theme=tokyo-night&hide_border=true&color=7c3aed&line=7c3aed&point=a78bfa&area=true" />
+</div>
+
+---
+
 ### 🏗️ Featured Projects
 
 <table>
@@ -65,9 +119,9 @@ JavaScript       ████████████░░░░░░░░░
       <h3>🏪 Super Shop Management</h3>
       <p>ERP-level system featuring Inventory, Procurement & Warehouse modules. Designed for real business scale.</p>
       <p>
-        <img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" />
       </p>
     </td>
     <td width="33%" valign="top">
@@ -93,26 +147,21 @@ JavaScript       ████████████░░░░░░░░░
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Currently Learning
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahminaKhanNipa10-Codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahminaKhanNipa10-Codes&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahminaKhanNipa10-Codes&theme=tokyonight&hide_border=true" />
-</div>
+![Clean Architecture](https://img.shields.io/badge/🏛️_Clean_Architecture-in_progress-7c3aed?style=flat-square)
+![REST API](https://img.shields.io/badge/🔌_REST_API_Design-in_progress-7c3aed?style=flat-square)
+![EF Core](https://img.shields.io/badge/🗄️_Entity_Framework_Core-in_progress-7c3aed?style=flat-square)
+![React](https://img.shields.io/badge/⚛️_React-upcoming-6b7280?style=flat-square)
+![Docker](https://img.shields.io/badge/🐳_Docker-upcoming-6b7280?style=flat-square)
 
 ---
 
-### 🌱 Currently Learning
+### 🏆 GitHub Trophies
 
-![Clean Architecture](https://img.shields.io/badge/🏛️_Clean_Architecture-learning-7c3aed?style=flat-square)
-![REST API](https://img.shields.io/badge/🔌_REST_API_Design-learning-7c3aed?style=flat-square)
-![EF Core](https://img.shields.io/badge/🗄️_Entity_Framework_Core-learning-7c3aed?style=flat-square)
-![React](https://img.shields.io/badge/⚛️_React-upcoming-6b7280?style=flat-square)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TahminaKhanNipa10-Codes&theme=tokyonight&no-frame=true&no-bg=true&column=6&title_color=7c3aed" />
+</div>
 
 ---
 
@@ -134,6 +183,46 @@ JavaScript       ████████████░░░░░░░░░
 
 ---
 
+<details>
+<summary>⚙️ Snake Animation Setup করো (Click to expand)</summary>
+
+তোমার GitHub profile repo-তে এই file বানাও:
+`.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Actions tab থেকে একবার manually run করো — তারপর auto-update হবে।
+
+</details>
+
+---
+
 <div align="center">
   <sub>📍 Chattogram, Bangladesh &nbsp;·&nbsp; Building one commit at a time.</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=60&section=footer" />
 </div>
