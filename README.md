@@ -99,7 +99,7 @@ JavaScript       ████████████░░░░░░░░░
   </picture>
 </div>
 
-> 💡 **Snake setup করতে:** তোমার repo-তে `.github/workflows/snake.yml` file বানাও — নিচে দেওয়া আছে।
+
 
 ---
 
@@ -180,44 +180,6 @@ JavaScript       ████████████░░░░░░░░░
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<details>
-<summary>⚙️ Snake Animation Setup করো (Click to expand)</summary>
-
-Create this file in your GitHub profile repo:
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Run it once manually from the Actions tab — it will auto-update every 12 hours after that.
-
-</details>
 
 ---
 
