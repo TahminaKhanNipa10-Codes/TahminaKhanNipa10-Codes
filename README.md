@@ -77,9 +77,9 @@ JavaScript       ████████████░░░░░░░░░
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahminaKhanNipa10-Codes&show_icons=true&theme=tokyonight&hide_border=true&title_color=7c3aed&icon_color=7c3aed&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=TahminaKhanNipa10-Codes&show_icons=true&theme=tokyonight&hide_border=true&title_color=7c3aed&icon_color=7c3aed&count_private=true" />
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahminaKhanNipa10-Codes&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=TahminaKhanNipa10-Codes&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed" />
 
 </div>
 
@@ -159,7 +159,7 @@ JavaScript       ████████████░░░░░░░░░
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahminaKhanNipa10-Codes&theme=tokyonight&no-frame=false&margin-w=15&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TahminaKhanNipa10-Codes&column=5&margin-w=15&no-bg=false" />
 </div>
 
 ---
