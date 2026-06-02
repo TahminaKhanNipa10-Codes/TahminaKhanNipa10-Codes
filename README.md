@@ -77,16 +77,15 @@ JavaScript       ████████████░░░░░░░░░
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahminaKhanNipa10-Codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=7c3aed&icon_color=7c3aed" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahminaKhanNipa10-Codes&show_icons=true&theme=tokyonight&hide_border=true&title_color=7c3aed&icon_color=7c3aed&count_private=true&cache_seconds=1800" />
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahminaKhanNipa10-Codes&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahminaKhanNipa10-Codes&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahminaKhanNipa10-Codes&theme=tokyonight&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
 </div>
-
 ---
 
 ### 🐍 Contribution Snake
@@ -160,7 +159,7 @@ JavaScript       ████████████░░░░░░░░░
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahminaKhanNipa10-Codes&theme=tokyonight&no-frame=true&no-bg=true&column=6&title_color=7c3aed" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TahminaKhanNipa10-Codes&theme=tokyonight&no-frame=false&margin-w=15&column=5" />
 </div>
 
 ---
