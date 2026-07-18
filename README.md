@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2563EB&height=200&section=header&text=Tahmina%20Khan%20Nipa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20|%20C%23%20%26%20.NET%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:475569&height=200&section=header&text=Tahmina%20Khan%20Nipa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%E2%80%A2%20C%23%20and%20.NET%20Enthusiast&descAlignY=55&descSize=16&v=4" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Aspiring+Full-Stack+Developer;C%23+%26+.NET+Enthusiast;Clean+Architecture+%E2%80%A2+REST+APIs;Problem+Solver+%E2%9C%A6+Builder;Learner+Forever+%E2%88%9E)](https://git.io/typing-svg)
 
@@ -207,4 +207,4 @@ JavaScript       ████████████░░░░░░░░░
   <sub>📍 Chattogram, Bangladesh &nbsp;·&nbsp; Building one commit at a time.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:6D28D9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,100:1E293B&height=100&section=footer&v=4" width="100%"/>
