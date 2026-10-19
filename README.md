@@ -106,6 +106,18 @@ JavaScript       ████████████░░░░░░░░░
 
 <br/>
 
+## 🏅 Open Source Badges
+
+<div align="center">
+  <a href="https://cloud.layer5.io/user/7313b2af-1967-406a-a215-5c09dc3272bd?tab=badges&badge=first-design">
+    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design - Layer5" />
+  </a>
+  <br/>
+  <sup><a href="https://badges.layer5.io" style="color: #7c3aed; text-decoration: none;">Get your own badge</a></sup>
+</div>
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
