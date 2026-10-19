@@ -101,7 +101,7 @@ JavaScript       ████████████░░░░░░░░░
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahminaKhanNipa10-Codes&theme=discord&column=5&margin-w=15&margin-h=15&no-bg=false&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TahminaKhanNipa10-Codes&theme=discord&column=5&margin-w=15&margin-h=15&no-bg=false&no-frame=false&v=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
